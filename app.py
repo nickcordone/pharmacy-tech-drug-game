@@ -3,6 +3,8 @@ import random
 import json
 from streamlit_js_eval import streamlit_js_eval
 
+st.set_page_config(page_title="Top 200ish Drugs Game")
+
 # Define a function to generate and return the data
 @st.cache_data 
 def generate_data(file_path):
