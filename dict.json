@@ -1,0 +1,625 @@
+{
+  "CARDIOVASCULAR DRUGS for hypertension and/or heart failure": {
+    "Angiotensin Converting Enzyme (ACE) Inhibitor": {
+      "Generic & Brand Name Category": {
+        "Lisinopril": "Zestril | Prinivil",
+        "Benazepril": "Lotensin",
+        "Enalapril": "Vasotec",
+        "Ramipril": "Altace"
+      }
+    },
+    "Angiotensin Receptor Blockers (ARBs)": {
+      "Generic & Brand Name Category": {
+        "Losartan": "Cozaar",
+        "Irbesartan": "Avapro",
+        "Olmesartan": "Benicar",
+        "Valsartan": "Diovan"
+      }
+    },
+    "Beta Blockers": {
+      "Generic & Brand Name Category": {
+        "Propanolol": "Inderal",
+        "Atenolol": "Tenormin",
+        "Carvedilol": "Coreg",
+        "Metoprolol tartrate": "Lopressor",
+        "Metoprolol succinate": "Toprol XL",
+        "Nebivolol": "Bystolic",
+        "Bisoprolol": "Zebeta"
+      }
+    },
+    "Calcium Channel Blockers": {
+      "Generic & Brand Name Category": {
+        "Amlodipine": "Norvasc",
+        "Nifedipine": "Procardia",
+        "Diltiazem": "Cardizem",
+        "Verapamil": "Verelan",
+        "Amlodipine/Benazepril": "Lotrel"
+      }
+    },
+    "Alpha Agonist": {
+      "Generic & Brand Name Category": {
+        "Clonidine": "Catapres"
+      }
+    },
+    "Diuretics": {
+      "Generic & Brand Name Category": {
+        "Furosemide": "Lasix",
+        "Hydrochlorothiazide": "Microzide",
+        "HCTZ/triamterene": "Dyazide",
+        "HCTZ/lisinopril": "Zestoretic",
+        "HCTZ/losartan": "Hyzaar",
+        "HCTZ/valsartan": "Diovan HCT",
+        "Spritonolactone": "Aldactone",
+        "Chlorthalidone": "Thalitone"
+      }
+    },
+    "Vasodilators (or nitroglycerin)": {
+      "Generic & Brand Name Category": {
+        "Nitroglycerin sublingual": "Nitrostat",
+        "Nitroglycerin transdermal": "Nitro-Dur",
+        "Hydralazine": "Apresoline",
+        "Isosorbide mononitrate": "Imdur"
+      }
+    }
+  },
+  "CARDIOVASCULAR DRUGS for arrhythmias or atrial fibrillation": {
+    "Cardiac glycosides": {
+      "Generic & Brand Name Category": {
+        "Digoxin": "Digitek"
+      }
+    },
+    "Anti-arrhythmias": {
+      "Generic & Brand Name Category": {
+        "Amiodarone": "Cordarone"
+      }
+    }
+  },
+  "CARDIOVASCULAR DRUGS for blood clots": {
+    "Antiplatelet": {
+      "Generic & Brand Name Category": {
+        "Aspirin": "Ecotrin",
+        "Clopidogrel": "Plavix",
+        "Ticagrelor": "Brilinta"
+      }
+    },
+    "Anticoagulant": {
+      "Generic & Brand Name Category": {
+        "Warfarin": "Coumadin",
+        "Apixaban": "Eliquis",
+        "Dabigatran": "Pradaxa",
+        "Rivaroxaban": "Xarelto",
+        "INJECTABLES: Enoxaparin": "Lovenox"
+      }
+    },
+    "Antithrombotics (used in acute situations)": {
+      "Generic & Brand Name Category": {
+        "Alteplase, \"t-PA\"": "Activase"
+      }
+    }
+  },
+  "CHOLESTEROL DRUGS": {
+    "HMG-CoA Reductase Inhibitors (statins)": {
+      "Generic & Brand Name Category": {
+        "Atorvastatin": "Lipitor",
+        "Simvastatin": "Zocor",
+        "Rosuvastatin": "Crestor",
+        "Pravastatin": "Pravachol",
+        "Lovastatin": "Mevacor",
+        "Fluvastatin": "Lescol"
+      }
+    },
+    "Fibric acid derivatives (fibrates)": {
+      "Generic & Brand Name Category": {
+        "Fenofibrate": "Tricor",
+        "Fenofibric acid": "Trilipix",
+        "Gemfibrozil": "Lopid"
+      }
+    },
+    "MISCELLANEOUS": {
+      "Generic & Brand Name Category": {
+        "Ezetimibe": "Zetia",
+        "Ezetimibe/simvastatin": "Vytorin",
+        "Omega-3 fatty acids": "Lovaza",
+        "Niacin": "Niaspan"
+      }
+    }
+  },
+  "ERYTHROPOIESIS STIMULATING AGENT (ESAs) \"epo\"": {
+    "Generic & Brand Name Category": {
+      "Darbepoetin": "Aranesp",
+      "Epoetin alfa": "Procrit"
+    }
+  },
+  "DIABETES DRUGS": {
+    "Biguanides": {
+      "Generic & Brand Name Category": {
+        "Metformin": "Glucophage"
+      }
+    },
+    "Sulfonylureas": {
+      "Generic & Brand Name Category": {
+        "Glipizide": "Glucotrol",
+        "Glimepiride": "Amaryl",
+        "Glyburide": "Glynase"
+      }
+    },
+    "Thiazolidinediones": {
+      "Generic & Brand Name Category": {
+        "Pioglitazone": "Actos",
+        "Rosiglitazone": "Avandia"
+      }
+    },
+    "DPP-4 Inhibitors": {
+      "Generic & Brand Name Category": {
+        "Alogliptin": "Nesina",
+        "Linagliptin": "Tradjenta",
+        "Saxagliptin": "Onglyza",
+        "Sitagliptin": "Januvia"
+      }
+    },
+    "GLP-1 Receptor Agonists": {
+      "Generic & Brand Name Category": {
+        "Exenatide": "Byetta",
+        "Liraglutide": "Victoza"
+      }
+    },
+    "SGLT-2 Inhibitors": {
+      "Generic & Brand Name Category": {
+        "Canagliflozin": "Invokana",
+        "Dapagliflozin": "Farxiga",
+        "Empagliflozin": "Jardiance"
+      }
+    },
+    "Glinides": {
+      "Generic & Brand Name Category": {
+        "Nateglinide": "Starlix",
+        "Repaglinide": "Prandin"
+      }
+    },
+    "INSULIN": {
+      "Generic & Brand Name Category": {
+        "insulin aspart": "NovoLOG",
+        "insulin lispro": "HumaLOG",
+        "insulin glargine": "Lantus",
+        "insulin determir": "Levemir",
+        "regular insulin": "HumuLIN"
+      }
+    }
+  },
+  "THYROID HORMONE REPLACEMENT DRUGS": {
+    "Generic & Brand Name Category": {
+      "Levothyroxine": "Synthroid",
+      "Thyroid": "Armour Thyroid"
+    }
+  },
+  "FEMALE HORMONES": {
+    "Generic & Brand Name Category": {
+      "Estradiol": "Estrace",
+      "Progesterone": "Prometrium"
+    }
+  },
+  "GASTROINTESTINAL DRUGS": {
+    "Proton Pump Inhibitors (PPIs)": {
+      "Generic & Brand Name Category": {
+        "Omeprazole": "Prilosec",
+        "Esomeprazole": "Nexium",
+        "Lansoprazole": "Prevacid",
+        "Rabeprazole": "Aciphex",
+        "Dexlansoprazole": "Dexilant"
+      }
+    },
+    "Histamine-2 (H2) - Receptor Blockers": {
+      "Generic & Brand Name Category": {
+        "Cimetidine": "Tagamet",
+        "Famotidine": "Pepcid",
+        "Ranitidine": "Zantac"
+      }
+    },
+    "5-HT3 Antagonists": {
+      "Generic & Brand Name Category": {
+        "Ondansetron": "Zofran",
+        "Palonosetron": "Aloxi"
+      }
+    },
+    "Laxatives": {
+      "Generic & Brand Name Category": {
+        "Docusate": "Colace",
+        "Polyethylene glycol PEG": "Miralax"
+      }
+    },
+    "Anti-diarrheals": {
+      "Generic & Brand Name Category": {
+        "Diphenoxylate/ atropine": "Lomotil",
+        "Loperamide": "Imodium"
+      }
+    }
+  },
+  "ANTIDEPRESSANTS": {
+    "Selective Serotonin Reuptake Inhibitors (SSRIs)": {
+      "Generic & Brand Name Category": {
+        "Citalopram": "Celexa",
+        "Escitalopram": "Lexapro",
+        "Fluoxetine": "Prozac",
+        "Paroxetine": "Paxil",
+        "Sertraline": "Zoloft"
+      }
+    },
+    "Serotonin Norepinephrine Reuptake Inhibitors (SNRIs)": {
+      "Generic & Brand Name Category": {
+        "Duloxetine": "Cymbalta",
+        "Venlafaxine": "Effexor",
+        "Desvenlafaxine": "Pristiq"
+      }
+    },
+    "Tricyclic antidepressants (TCAs)": {
+      "Generic & Brand Name Category": {
+        "Amitriptyline": "Elavil",
+        "Nortriptyline": "Pamelor"
+      }
+    },
+    "Other Antidepressant": {
+      "Generic & Brand Name Category": {
+        "Bupropion": "Wellbutrin",
+        "Mirtazapine": "Remeron",
+        "Trazodone": "Desyrel"
+      }
+    }
+  },
+  "ANTIPSYCHOTICS": {
+    "Generic & Brand Name Category": {
+      "Haloperidol": "Haldol",
+      "Olanzapine": "Zyprexa",
+      "Quetiapine": "Seroquel",
+      "Risperidone": "Risperdal",
+      "Ziprasidone": "Geodon",
+      "Aripiprazole": "Abilify"
+    }
+  },
+  "ANTIEPILEPTIC": {
+    "Generic & Brand Name Category": {
+      "Carbamazepine": "Tegretol",
+      "Gabapentin": "Neurontin",
+      "Lamotrigine": "Lamictal",
+      "Levetiracetam": "Keppra",
+      "Oxcarbazepine": "Trileptal",
+      "Pregabalin": "Lyrica",
+      "Topiramate": "Topamax"
+    }
+  },
+  "PAIN MEDICATIONS": {
+    "OPIOID ANALGESICS (OPIATES)": {
+      "Generic & Brand Name Category": {
+        "Acetaminophen/hydrocodone": "Lortab",
+        "Hydrocodone": "Zohydro",
+        "Morphine": "Oxycontin",
+        "Oxymorphone": "Opana ER",
+        "Tramadol": "Ultram",
+        "Buprenorphine/Naloxone": "Suboxone"
+      }
+    },
+    "non-OPIOID ANALGESICS": {
+      "Generic & Brand Name Category": {
+        "Acetaminophen": "Tylenol",
+        "Acetaminophen/butalbital/caffeine": "Fioricet"
+      }
+    },
+    "Non-steroidal Anti-inflammatory Drugs (NSAIDS)": {
+      "Generic & Brand Name Category": {
+        "Celecoxib": "Celebrex",
+        "Diclofenac": "Voltaren",
+        "Ibuprofen": "Motrin/Advil",
+        "Meloxicam": "Mobic",
+        "Naproxen": "Aleve"
+      }
+    },
+    "Muscle Relaxants": {
+      "Generic & Brand Name Category": {
+        "Baclofen": "Lioresal",
+        "Cyclobenzaprine": "Flexeril",
+        "Methocarbamol": "Robaxin",
+        "Tizanidine": "Zanaflex"
+      }
+    },
+    "Miscellaneous Topical Pain Medications": {
+      "Generic & Brand Name Category": {
+        "Lidocaine": "Lidoderm"
+      }
+    },
+    "5-HT Agonists (Triptans)": {
+      "Generic & Brand Name Category": {
+        "Sumatriptan": "Imitrex",
+        "Rizatriptan": "Maxalt",
+        "Eletriptan": "Relpax"
+      }
+    }
+  },
+  "ANTITUSSIVES (COUGH MED)": {
+    "Generic & Brand Name Category": {
+      "Benzonatate": "Tessalon",
+      "Dextromethorphan": "Delsym"
+    }
+  },
+  "BENZODIAZEPINES \"zepam\"": {
+    "Generic & Brand Name Category": {
+      "Alprazolam": "Xanax",
+      "Clonazepam": "Klonopin",
+      "Diazepam": "Valium",
+      "Lorazepam": "Ativan",
+      "Temazepam": "Restoril"
+    }
+  },
+  "non-Benzo Hypnotics": {
+    "Generic & Brand Name Category": {
+      "Eszopiclone": "Lunesta",
+      "Zaleplon": "Sonata",
+      "Zolpidem": "Ambien",
+      "Buspirone": "Buspar"
+    }
+  },
+  "ATTENTION-DEFICIT/ HYPERACTIVITY DISORDER (ADHD)": {
+    "STIMULANTS \"amphetamine\" or \"phenidate\"": {
+      "Generic & Brand Name Category": {
+        "Dexmethylphenidate": "Focalin",
+        "Dextroamphetamine": "Dexedrine",
+        "Lisdexamfetamine": "Vyvanse",
+        "Methylphenidate": "Ritalin/ Concerta",
+        "Modafinil": "Provigil"
+      }
+    },
+    "non-STIMULANTS": {
+      "Generic & Brand Name Category": {
+        "Atomoxetine": "Strattera",
+        "Guanfacine": "Intuniv"
+      }
+    }
+  },
+  "DOPAMINERGICS AND DOPAMINE AGONISTS": {
+    "Generic & Brand Name Category": {
+      "Levodopa/Carbidopa": "Sinemet",
+      "Pramipexole": "Mirapex",
+      "Ropinirole": "Requip"
+    }
+  },
+  "CHOLINESTERASE INHIBITORS & NMDA RECEPTOR ANTAGONISTS": {
+    "Generic & Brand Name Category": {
+      "Donepezil": "Aricept",
+      "Rivastigmine": "Exelon",
+      "Memantine": "Namenda"
+    }
+  },
+  "ANTIBIOTICS": {
+    "Penicillins end in \"cillin\"": {
+      "Generic & Brand Name Category": {
+        "Amoxicillin": "Amoxil",
+        "Amoxicillin/Clavulonate": "Augmentin",
+        "Piperacillin/Tazobactam": "Zosyn"
+      }
+    },
+    "Cephalosporins start with \"cef\" or \"ceph\"": {
+      "Generic & Brand Name Category": {
+        "Cefdinir": "Omnicef",
+        "Cephalexin": "Keflex",
+        "Ceftriaxone": "Rocephin"
+      }
+    },
+    "Macrolides end with \"mycin\"": {
+      "Generic & Brand Name Category": {
+        "Azithromycin": "Zithromax",
+        "Clarithromycin": "Biaxin"
+      }
+    },
+    "Fluoroquinolones end with \"floxacin\"": {
+      "Generic & Brand Name Category": {
+        "Ciprofloxacin": "Cipro",
+        "Levofloxacin": "Levaquin",
+        "Moxifloxacin": "Avelox"
+      }
+    },
+    "Other": {
+      "Generic & Brand Name Category": {
+        "Bacitracin/Neomycin": "Neosporin",
+        "Clindamycin": "Cleocin",
+        "Metronidazole": "Flagyl",
+        "Minocycline": "Solodyn",
+        "Mupirocin": "Bactroban",
+        "Nitrofurantoin": "Macrobid",
+        "Sulfamethoxazole/trimethoprim": "Bactrim",
+        "Linezolid": "Zyvox",
+        "Vancomycin": "Vancocin"
+      }
+    },
+    "Ophthalmic and Otic Antibiotics": {
+      "Generic & Brand Name Category": {
+        "Gatifloxacin": "Zymar",
+        "Moxifloxacin": "Vigamox",
+        "Ofloxacin": "Floxin Otic"
+      }
+    }
+  },
+  "ANTIVIRALS end in \"vir\"": {
+    "Generic & Brand Name Category": {
+      "Acyclovir": "Zovirax",
+      "Valacyclovir": "Valtrex",
+      "Oseltamivir": "Tamiflu",
+      "Lopinivir/Ritonavir": "Kaletra",
+      "Raltegravir": "Isentress",
+      "Tenofovir": "Viread"
+    }
+  },
+  "ANTIFUNGALS end in \"azole\" or \"fungin\"": {
+    "Generic & Brand Name Category": {
+      "Fluconazole": "Diflucan",
+      "Micafungin": "Mycamine"
+    }
+  },
+  "Malaria Drug": {
+    "Generic & Brand Name Category": {
+      "Hydroxychloroquine": "Plaquenil"
+    }
+  },
+  "ASTHMA DRUGS": {
+    "BETA AGONISTS end with \"terol\"": {
+      "Generic & Brand Name Category": {
+        "Albuterol": "Proair",
+        "Levalbuterol": "Xopenex",
+        "Salmeterol": "Serevent",
+        "Albuterol/Ipratropium (inhaler)": "Combivent",
+        "Albuterol/Ipratropium (solution)": "Duoneb"
+      }
+    },
+    "Inhaled Anticholinergics end with \"tropium\"": {
+      "Generic & Brand Name Category": {
+        "Ipratropium": "Atrovent",
+        "Tiotropium": "Spiriva"
+      }
+    },
+    "Inhaled Corticosteroids": {
+      "Generic & Brand Name Category": {
+        "Beclomethasone": "QVAR",
+        "Budesonide": "Pulmicort",
+        "Fluticasone": "Flovent",
+        "Mometasone": "Asmanex",
+        "Budesonide/formoterol": "Symbicort",
+        "Fluticasone/salmeterol": "Advair"
+      }
+    },
+    "OTHER DRUGS FOR ASTHMA": {
+      "Generic & Brand Name Category": {
+        "Omalizumab": "Xolair",
+        "Montelukast": "Singulair"
+      }
+    }
+  },
+  "ANTIHISTAMINES end in \"zine\" and \"dine\"": {
+    "Generic & Brand Name Category": {
+      "Cetirizine": "Zyrtec",
+      "Diphenhydramine": "Benadryl",
+      "Hydroxyzine": "Atarax",
+      "Levocetirizine": "Xyzal",
+      "Loratadine": "Claritin",
+      "Promethazine": "Phenergan",
+      "Meclizine": "Bonine"
+    }
+  },
+  "CORTICOSTEROIDS end in \"one\"": {
+    "Generic & Brand Name Category": {
+      "Methylprednisolone": "Medrol",
+      "Prednisolone": "Orapred",
+      "Prednisone": "Deltasone"
+    }
+  },
+  "INTRANASAL CORTICOSTEROIDS": {
+    "Generic & Brand Name Category": {
+      "Budesonide": "Rhinocort Aqua",
+      "Fluticasone": "Flonase",
+      "Mometasone": "Nasonex",
+      "Triamcinolone": "Nasacort"
+    }
+  },
+  "GOUT": {
+    "DRUGS TO TREAT GOUT": {
+      "Generic & Brand Name Category": {
+        "Allopurinol": "Zyloprim",
+        "Colchicine": "Colcrys"
+      }
+    }
+  },
+  "MONOCLONAL ANTIBODIES end in \"mab\"": {
+    "Generic & Brand Name Category": {
+      "Adalimumab": "Humira",
+      "Etanercept": "Enbrel",
+      "Infliximab": "Remicade",
+      "Rituximab": "Rituxan"
+    }
+  },
+  "other anti-inflammatory drugs": {
+    "Generic & Brand Name Category": {
+      "Mesalamine": "Asacol"
+    }
+  },
+  "Phosphodiesterase Inhibitor end in \"afil\"": {
+    "Generic & Brand Name Category": {
+      "Sildenafil": "Viagra",
+      "Tadalafil": "Cialis",
+      "Vardenafil": "Levitra"
+    }
+  },
+  "Oral Anticholinergics": {
+    "Generic & Brand Name Category": {
+      "Mirabegron": "Myrbetriq",
+      "Oxybutynin": "Ditropan",
+      "Solifenacin": "Vesicare",
+      "Dicyclomine": "Bentyl"
+    }
+  },
+  "OPHTHALMIC DROPS FOR GLAUCOMA": {
+    "Generic & Brand Name Category": {
+      "Brimonidine": "Alphagan",
+      "Dorzolamide/Timolol": "Cosopt",
+      "Latanoprost": "Xalatan",
+      "Timolol": "Timoptic",
+      "Travoprost": "Travatan"
+    }
+  },
+  "ANTI-CANCER AGENTS": {
+    "Generic & Brand Name Category": {
+      "Bevacizumab": "Avastin",
+      "Capecitabine": "Xeloda",
+      "Cetixumab": "Erbitux",
+      "Imatinib": "Gleevec",
+      "Ipilimumab": "Yervoy",
+      "Methotrexate": "Rheumatrex",
+      "Paclitaxel": "Taxol",
+      "Trastuzumab": "Herceptin"
+    }
+  },
+  "IMMUNE SUPPRESSIVE AGENTS": {
+    "Generic & Brand Name Category": {
+      "Cyclosporine": "Sandimmune",
+      "Mycophenolate": "Cellcept",
+      "Tacrilomus": "Prograf"
+    }
+  },
+  "SMOKING CESSATION": {
+    "Generic & Brand Name Category": {
+      "Bupropion": "Zyban",
+      "Varenicline": "Chantix"
+    }
+  },
+  "VITAMINS AND MINERALS": {
+    "Generic & Brand Name Category": {
+      "Cyanocobalamin": "Vitamin B12",
+      "Ergocalciferol": "Vitamin D2",
+      "Ferrous sulfate": "Feosol",
+      "Folic acid": "Folacin",
+      "Magnesium": "Mag-Ox",
+      "Potassium": "K-Dur"
+    }
+  },
+  "Bisphosphonates end in \"dronate\"": {
+    "Generic & Brand Name Category": {
+      "Alendronate": "Fosamax",
+      "Ibandronate": "Boniva",
+      "Risedronate": "Actonel"
+    }
+  },
+  "DRUGS TO TREAT OSTEOPOROSIS": {
+    "Generic & Brand Name Category": {
+      "Raloxifene": "Avista",
+      "Terioaratide": "Forteo"
+    }
+  },
+  "ALPHA ANTAGONISTS": {
+    "Generic & Brand Name Category": {
+      "Doxazosin": "Cardura",
+      "Tamsulosin": "Flomax",
+      "Terazosin": "Hytrin"
+    }
+  },
+  "5-ALPHA REDUCTASE INHIBITORS end in \"asteride\"": {
+    "Generic & Brand Name Category": {
+      "Dutasteride": "Avodart",
+      "Finasteride": "Proscar"
+    }
+  }
+}
