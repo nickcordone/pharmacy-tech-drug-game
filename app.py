@@ -207,9 +207,6 @@ with col1:
         st.session_state.disabled = True
         st.session_state.wrong = 0
         st.write(f"You got {st.session_state.count} correct answers!")
-    st.write("#")
-    st.write("#")
-    st.write("#")
     st.write("> 5 guesses gives the first letter of the correct answer")
     st.write("> 10 guesses gives the length of the correct answer")
     st.write("> 15 guesses gives the option to give up, with no points given")
